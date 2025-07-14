@@ -1,20 +1,25 @@
-# Hi there 👋
+# Jarosław Roszyk
 
-🎓 I have a **Bachelor's degree** in **Cloud Application Programming** from **WSB Merito Wrocław**, and I'm currently pursuing a Master's degree in **Systems Engineering**, specializing in **Data Engineering** with a focus on **Machine Learning** and **AI**.
+**Bachelor's degree** in **Cloud Application Programming** from **WSB Merito Wrocław**  
+Currently pursuing **Master's degree** in **Artificial Intelligence** at **WSB**
 
-🛠 **My technical skills include:**
-- **C++** (C++17/C++20), **Java**, **Rust**, **Python**, **SQL**, **Redis**
-- Proficient in **Linux**, **Docker**, and **CI/CD**
-- Strong problem-solving skills
-- Ability to create scripts that facilitate daily work
-- Enjoy designing application architecture
+## Technical Skills
 
-🌱 I'm constantly learning and expanding my knowledge in the field of **AI** and **software development**.
+- **Primary Languages:** Rust, C++ (C++17/C++20)
+- **Additional Languages:** Java, Python, SQL
+- **Technologies:** Redis, Docker, Linux, CI/CD
+- **Architecture:** Application design and system architecture
+- **Automation:** Script development for workflow optimization
 
-🏅 I'm passionate about **sport climbing** and **mountain running**, actively participating in competitions.
+## Professional Focus
 
-💻 I have several years of experience as a programmer and I continue to develop my skills in the field.
+Experienced software developer with several years in the industry, continuously expanding expertise in **AI/ML** and **software development**. Strong problem-solving capabilities and passion for creating efficient, scalable solutions.
 
-🔍 I'm open to contributing to **open-source programming projects**, as well as projects in the field of **AI/ML**.
+## Open Source Contributions
 
-📫 Feel free to connect with me on roszyk.jarek@gmail.com or [LinkedIn](https://www.linkedin.com/in/jarosław-roszyk-3a6887184/)
+Open to contributing to **open-source projects** and **AI/ML initiatives**.
+
+## Contact
+
+- Email: <roszyk.jarek@gmail.com>
+- LinkedIn: [Jarosław Roszyk](https://www.linkedin.com/in/jarosław-roszyk-3a6887184/)
