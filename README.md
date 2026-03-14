@@ -15,7 +15,6 @@ I specialize in high-performance system programming. Currently at **Nokia**, I l
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Languages & Tools:**
@@ -25,9 +24,11 @@ I specialize in high-performance system programming. Currently at **Nokia**, I l
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Resume
 
-![Jarek's Stats](https://github-readme-stats.vercel.app/api?username=jaroslawroszyk&show_icons=true&theme=tokyonight&count_private=true)
+| My Contributions | Latest Professional Resume |
+| :--- | :--- |
+| ![Jarek's Stats](https://github-readme-stats.vercel.app/api?username=jaroslawroszyk&show_icons=true&theme=tokyonight&count_private=true) | [![Resume](https://img.shields.io/badge/Resume-Download_PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/jaroslawroszyk/Resume/releases/download/latest/Jaroslaw_Roszyk_CV.pdf) |
 
 ---
 
