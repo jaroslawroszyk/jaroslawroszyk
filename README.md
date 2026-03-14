@@ -6,7 +6,7 @@ I specialize in high-performance system programming. Currently at **Nokia**, I l
 - 🔭 **Current Focus:** Building ultra-high performance, scalable 6G infrastructure and exploring AI/ML applications.
 - 🛠️ **Open Source:** Active contributor to core Rust tooling, including **rust-lang (compiler)**, **Clippy**, and **rust-analyzer**.
 - 🎓 **Education:** Pursuing a Master's in Artificial Intelligence; hold a Bachelor's in Cloud Application Development.
-- 🧗 **Outside of Code:** Avid sport climber and mountain runner.
+- 🧗 **Outside of Code:** Avid sport climber and rock climber.
 
 ---
 
