@@ -13,5 +13,5 @@ M.Sc. Student in Artificial Intelligence.
 * [Resume (PDF)](https://github.com/jaroslawroszyk/Resume/releases/download/latest/Jaroslaw_Roszyk_CV.pdf)
 * [Email](mailto:roszyk.jarek@gmail.com)
 
-* ### Personal
+### Personal
 * Rock & sport climbing. <3 
