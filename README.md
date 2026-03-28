@@ -9,7 +9,7 @@ M.Sc. Student in Artificial Intelligence.
 * **AI/ML**
 
 ### Links
-* [LinkedIn](www.linkedin.com/in/jaroslaw-roszyk)
+* [LinkedIn]([www.linkedin.com/in/jaroslaw-roszyk](https://www.linkedin.com/in/jaroslaw-roszyk-3a6887184/))
 * [Resume (PDF)](https://github.com/jaroslawroszyk/Resume/releases/download/latest/Jaroslaw_Roszyk_CV.pdf)
 * [Email](mailto:roszyk.jarek@gmail.com)
 
